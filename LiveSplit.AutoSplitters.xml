@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>ActRaiser 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Traviktox/Lufia_2_ACAutosplitter/master/auto_actraiser_2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for ActRaiser 2 (By Traviktox)</Description>
+        <Website>https://discord.com/invite/rJcdTZc</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Earth 2150: Escape from the Blue Planet</Game>
         </Games>
         <URLs>
@@ -639,7 +650,8 @@
             <Game>Super Gussun Oyoyo 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Traviktox/Lufia_2_ACAutosplitter/master/Super_Gussun_Oyoyo_2_Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Traviktox/
+		    _2_ACAutosplitter/master/Super_Gussun_Oyoyo_2_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description> Autosplitter for Super Gussun Oyoyo 2 (by Traviktox)</Description>
